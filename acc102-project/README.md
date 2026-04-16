@@ -31,22 +31,27 @@ A data analysis project for ACC102 Mini Assignment (Track 2).
 
 ## 5. How to Run
 
-```bash
-git clone https://github.com/[your-username]/acc102-shopping-analysis.git
-cd acc102-shopping-analysis
-pip install -r requirements.txt
-jupyter notebook shopping_analysis.ipynb
+**Step 1**: Clone the repository  
+`git clone https://github.com/yuyaozhang05-sudo/acc102-shopping-analysis.git`
+
+**Step 2**: Enter the project folder  
+`cd acc102-shopping-analysis`
+
+**Step 3**: Install dependencies  
+`pip install -r requirements.txt`
+
+**Step 4**: Launch Jupyter Notebook  
+`jupyter notebook shopping_analysis.ipynb`
 
 ## 6. Product Link / Demo
 
 - **GitHub Repository**: https://github.com/yuyaozhang05-sudo/acc102-shopping-analysis
-- **Demo Video**: [点击这里观看演示视频](https://mediasite.xxx/您的视频链接)
+- **Demo Video**: [Link to Mediasite video]
 
 ## 7. Limitations
 
-- The dataset is synthetic and may not fully represent real-world retail patterns.
-- Analysis uses only descriptive statistics; no hypothesis testing was performed.
-- Sample size (3,900 records) is relatively small.
-- No temporal data available to analyse seasonal or promotional effects.
+- Synthetic dataset; descriptive statistics only; small sample size.
+
+---
 
 **Author**: Zhang Yuyao | **Student ID**: 2473441 | **Date**: 15 April 2026
