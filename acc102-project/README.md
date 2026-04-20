@@ -46,8 +46,7 @@ A data analysis project for ACC102 Mini Assignment (Track 2).
 ## 6. Product Link / Demo
 
 - **GitHub Repository**: https://github.com/yuyaozhang05-sudo/acc102-shopping-analysis
-- **Demo Video**: [Link to Mediasite video]
-
+- **Demo Video**: https://video.xjtlu.edu.cn/Mediasite/Play/674d75039c54403d8c289d6d3981acd01d
 ## 7. Limitations
 
 - Synthetic dataset; descriptive statistics only; small sample size.
